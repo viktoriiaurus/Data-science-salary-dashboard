@@ -39,7 +39,7 @@ This interactive Excel dashboard helps users explore salary trends across data-r
 
 ## 📁 File
 
-- `my_project_1.xlsx` — Excel file with the full dashboard  
+- <small> [Excel file with the full dashboard](./my_project_1.xlsx)</small>
 > *Note: Due to file size, the dashboard may not preview on GitHub. Please download to explore.*
 
 ---
