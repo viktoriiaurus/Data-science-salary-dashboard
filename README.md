@@ -2,7 +2,7 @@
 
 This interactive Excel dashboard helps users explore salary trends across data-related job titles. It allows filtering by job title, country, and employment type to view median salaries and understand how compensation varies by role and region.
 
-![Dashboard Preview](/Users/viktoria/Desktop/animation.gif)
+![Dashboard Preview](animation.gif)
 
 ---
 
@@ -39,7 +39,7 @@ This interactive Excel dashboard helps users explore salary trends across data-r
 
 ## 📁 File
 
-- `1_Salary_Dashboard.xlsx` — Excel file with the full dashboard  
+- `my_project_1.xlsx` — Excel file with the full dashboard  
 > *Note: Due to file size, the dashboard may not preview on GitHub. Please download to explore.*
 
 ---
